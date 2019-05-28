@@ -1,0 +1,8 @@
+.externalToolBuilders/
+.myeclipse/
+.settings/
+.svn/
+.idea/
+.classpath
+classes/
+.idea/
